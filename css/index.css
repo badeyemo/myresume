@@ -11,3 +11,7 @@ hr {
     /* height: 2px; */
     width: 3%;
 }
+
+h1, h3 {
+    background-color: #66BFBF;
+}
