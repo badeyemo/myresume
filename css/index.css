@@ -20,6 +20,10 @@ hr {
     width: 3%;
 }
 
+.pix {
+    border-radius: 100%;
+}
+
 /* h1, h3 {
     background-color: #66BFBF;
 } */
