@@ -2,6 +2,14 @@ body {
     background-color: #EAF6F6;
 }
 
+h1 {
+    color: 66BFBF;
+}
+
+h3 {
+   color: bisque; 
+}
+
 hr {
     /* background-color: white; */
     border-style: none;
@@ -12,6 +20,6 @@ hr {
     width: 3%;
 }
 
-h1, h3 {
+/* h1, h3 {
     background-color: #66BFBF;
-}
+} */
